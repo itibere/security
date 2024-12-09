@@ -1,0 +1,30 @@
+Manage common threats, risks, and vulnerabilities
+
+*** Risk management ***
+A primary goal of organizations is to protect assets. An asset is an item perceived as having value to an organization. Assets can be digital or physical.
+Examples of digital assets include the personal information of employees, clients, or vendors, such as: 
+
+  > Social Security Numbers (SSNs), or unique national identification numbers assigned to individuals 
+  > Dates of birth
+  > Bank account numbers
+  > Mailing addresses
+
+*** Examples of physical assets include ***
+
+  > Payment kiosks
+  > Servers
+  > Desktop computers
+  > Office spaces
+
+*** Some common strategies used to manage risks include ***
+
+  >> Acceptance: Accepting a risk to avoid disrupting business continuity
+  >> Avoidance: Creating a plan to avoid the risk altogether
+  >> Transference: Transferring risk to a third party to manage
+  >> Mitigation: Lessening the impact of a known risk
+
+NOTE: Additionally, organizations implement risk management processes based on widely accepted frameworks to help protect digital and physical assets from various threats, risks, and vulnerabilities.
+
+Examples of frameworks commonly used in the cybersecurity industry include the National Institute of Standards and Technology Risk Management Framework (NIST RMF) and Health Information Trust Alliance (HITRUST).
+
+Following are some common types of threats, risks, and vulnerabilities you’ll help organizations manage as a security professional.
